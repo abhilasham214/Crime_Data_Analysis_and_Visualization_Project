@@ -1,0 +1,8 @@
+pandas
+numpy
+scikit-learn
+folium
+plotly>=5.24
+matplotlib
+seaborn
+jupyter
